@@ -141,7 +141,7 @@ div.card > a:nth-of-type(2):hover {
   }
 
   .container {
-    margin-top: 9em;
+    place-items: center;
     width: 20vw;
   }
 }
